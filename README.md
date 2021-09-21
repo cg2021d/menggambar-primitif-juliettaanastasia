@@ -1,4 +1,4 @@
-# menggambar-primitif-juliettaanastasia
+# menggambar-primitif & huruf-juliettaanastasia
 
 Nama : Julietta Anastasia Rodiah Br Panjaitan
 
