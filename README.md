@@ -1,5 +1,4 @@
 # menggambar-primitif-juliettaanastasia
-menggambar-primitif-juliettaanastasia created by GitHub Classroom
 
 Nama : Julietta Anastasia Rodiah Br Panjaitan
 
